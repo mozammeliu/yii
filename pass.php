@@ -8,3 +8,9 @@ print "Hello World! I'm Mozammel Haque";
 ?>
 
 <h2>Hello World!</h2>
+<?php
+
+print "<br>";
+print "Hello World! I'm Mozammel Haque";
+
+?>
